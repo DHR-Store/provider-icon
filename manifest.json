@@ -18,7 +18,8 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "2.1k"
+     "rating": "2.1k",
+     "messages": "vega now working you can check"
   },
   {
     "display_name": "MoviesDrive",
