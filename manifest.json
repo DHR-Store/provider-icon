@@ -7,7 +7,8 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-    "rating": "recommended"
+    "rating": "recommended",
+    "messages": "vega now working you can check"
   },
   {
     "display_name": "MultiStream",
