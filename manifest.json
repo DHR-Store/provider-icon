@@ -52,7 +52,8 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "5k"
+     "rating": "5k",
+     "messages": "vega now working you can check and also some "
   },
   {
     "display_name": "World4uFree",
