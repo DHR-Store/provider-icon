@@ -7,8 +7,7 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-    "rating": "recommended",
-    "messages": "vega now work now use can download now"
+    "rating": "recommended"
   },
   {
     "display_name": "MultiStream",
@@ -18,8 +17,7 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "2.1k",
-     "messages": "vega now working you can check"
+     "rating": "2.1k"
   },
   {
     "display_name": "MoviesDrive",
@@ -29,8 +27,7 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "3.1k",
-    "messages": "vega now working you can check and also some "
+     "rating": "3.1k"
   },
   {
     "display_name": "MultiMovies",
@@ -40,8 +37,7 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "800",
-    "messages": "multi now working"
+     "rating": "800"
     
   },
   {
@@ -52,8 +48,7 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "5k",
-     "messages": "vega now working you can check and also some "
+     "rating": "5k"
   },
   {
     "display_name": "World4uFree",
@@ -63,8 +58,8 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "1.3k",
-    "messages": "vega now working you can check and also some "
+     "rating": "1.3k"
+    
   },
   {
     "display_name": "KatMoviesHd",
@@ -563,7 +558,8 @@
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/hi.png?raw=true",
     "type": "global",
     "category": "anime",
-    "disabled": false 
+    "disabled": false ,
+     "messages": "hiAnime is back now watch your anime"
   },
   {
     "display_name": "DramaKey",
