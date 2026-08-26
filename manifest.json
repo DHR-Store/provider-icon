@@ -558,8 +558,7 @@
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/hi.png?raw=true",
     "type": "global",
     "category": "anime",
-    "disabled": false ,
-     "messages": "hiAnime is back now watch your anime"
+    "disabled": false 
   },
   {
     "display_name": "DramaKey",
