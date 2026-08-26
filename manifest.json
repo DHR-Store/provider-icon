@@ -29,7 +29,8 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "3.1k"
+     "rating": "3.1k",
+    "messages": "vega now working you can check and also some "
   },
   {
     "display_name": "MultiMovies",
