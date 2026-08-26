@@ -40,7 +40,8 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "800"
+     "rating": "800",
+    "messages": "vega now working you can check and also some "
     
   },
   {
