@@ -1133,7 +1133,8 @@
     "type": "global",
     "category": "anime",
     "disabled": false,
-    "rating": "900"
+    "rating": "900",
+   "messages": "yomi is here now watch you anime"
   },
   {
     "display_name": "Binger",
