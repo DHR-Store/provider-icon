@@ -726,11 +726,12 @@
    {
     "display_name": "Tamilblaster",
     "value": "tamilblaster",
-    "version": "1.05",
+    "version": "1.06",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlqKUeCm1nWBKWGgm9Mg-Qz13Kqk8KWv3Bw&s",
     "type": "tamil",
     "category": "movie/tvshow",
-    "disabled": false
+    "disabled": false,
+     "messages": "tamilblaster now work for only download then play iframe currently not supporting for this wait (hindi tamil and other south indian movies)"
   },
   {
     "display_name": "Primevideo",
