@@ -84,12 +84,13 @@
   {
     "display_name": "UHDMovies",
     "value": "uhd",
-    "version": "1.2",
+    "version": "1.3",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/UHD.png?raw=true",
     "type": "india",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "901"
+     "rating": "901",
+    "messages": "now UDH working"
   },
   {
     "display_name": "ProtonMovies",
