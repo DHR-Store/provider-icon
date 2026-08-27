@@ -1100,12 +1100,13 @@
   {
     "display_name": "Netninja",
     "value": "netninja",
-    "version": "1.0",
+    "version": "1.01",
     "icon": "https://pbcdn.aoneroom.com/image/2026/01/07/1fc510e2eabe8cb8e9741054fe118805.png",
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-    "rating": "3k"
+    "rating": "3k",
+    "messages": "now search feature working also working with phone network"
   },
   {
     "display_name": "HDgharTV",
