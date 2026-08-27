@@ -129,7 +129,8 @@
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-    "rating": "2.3k"
+    "rating": "2.3k",
+    "messages": "moviebox web working now can use it for multiple voice and subtitles"
   },
   {
     "display_name": "MovieBlast",
