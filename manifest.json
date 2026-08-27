@@ -1153,7 +1153,9 @@
     "type": "global",
     "category": "anime",
     "disabled": false,
-    "rating": "recommended"
+    "rating": "recommended",
+    "messages": "kashishanimr is here now watch you anime"
+    
   },
   {
     "display_name": "AniDB",
