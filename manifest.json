@@ -265,11 +265,12 @@
   {
     "display_name": "HiAnime",
     "value": "hiAnime",
-    "version": "1.3",
+    "version": "1.4",
     "icon": "https://hianimes.cz/assets/top-logo.png",
     "type": "india",
     "category": "anime",
-    "disabled": false
+    "disabled": false,
+    "messages": "fix episodes and stream (for anime)"
   },
   {
     "display_name": "Animetsu",
