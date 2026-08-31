@@ -974,11 +974,12 @@
   {
     "display_name": "Piratexplay",
     "value": "piratexplay",
-    "version": "0.1",
+    "version": "0.2",
     "icon": "https://piratexplay.cc/public/img/favicon/apple-icon-144x144.png",
     "type": "global",
     "category": "anime",
-    "disabled": false
+    "disabled": false,
+    "messages": "fix stream url now play for anime"
   },
   {
     "display_name": "World4F",
