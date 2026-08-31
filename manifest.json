@@ -593,11 +593,12 @@
   {
     "display_name": "AnimeWorld",
     "value": "AnimeWorld",
-    "version": "1.4",
+    "version": "1.5",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/animeworld.png?raw=true",
     "type": "india",
     "category": "anime",
-    "disabled": false 
+    "disabled": false,
+    "messages": "fix stream link now use for anime"
   },
   {
     "display_name": "anihub",
