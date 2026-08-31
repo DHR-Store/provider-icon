@@ -603,11 +603,12 @@
   {
     "display_name": "anihub",
     "value": "anihub",
-    "version": "1.5",
+    "version": "1.6",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/anihub.png?raw=true",
     "type": "india",
     "category": "anime",
-    "disabled": false 
+    "disabled": false,
+    "messages": "fix episodes and stream url best for anime"
   },
   {
     "display_name": "Toono",
