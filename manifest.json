@@ -930,11 +930,12 @@
   {
     "display_name": "fibtoon",
     "value": "fibtoon",
-    "version": "1.0",
+    "version": "1.01",
     "icon": "https://fibwatch.biz/themes/default/img/icon.png",
     "type": "global",
     "category": "anime",
-    "disabled": false
+    "disabled": false,
+    "messages": "anime working and streaming in fibtoon"
   },
   {
     "display_name": "fibdrama",
