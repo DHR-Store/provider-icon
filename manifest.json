@@ -1190,6 +1190,17 @@
     "disabled": false,
     "rating": "1.2k",
     "messages": "castleTv is here now watch you all anime , movie and tvshow"
+  },
+  {
+    "display_name": "India4Movies",
+    "value": "india4movies",
+    "version": "1.00",
+    "icon": "https://go3.india4movies.net/wp-content/uploads/2026/03/cropped-cooltext504967201309602-180x180.png",
+    "type": "india",
+    "category": "movie",
+    "disabled": false,
+    "rating": "500",
+    "messages": "India4movies is here now watch you all anime , movie and tvshow"
   }
 
   
