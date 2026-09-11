@@ -481,7 +481,8 @@
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/moviesflix.png?raw=true",
     "type": "global",
     "category": "tvshow",
-    "disabled": false
+    "disabled": false,
+    "messages": "now fix moviesflix enjoy"
   },
   {
     "display_name": "animica",
