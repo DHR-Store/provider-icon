@@ -294,12 +294,13 @@
   {
     "display_name": "KissKh",
     "value": "kissKh",
-    "version": "1.1",
+    "version": "1.2",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/kissh.png?raw=true",
     "type": "asian",
     "category": "kdrama",
     "disabled": false,
-    "rating": "3.4k"
+    "rating": "3.4k",
+    "messages": "updates"
     
   },
   {
