@@ -32,13 +32,13 @@
   {
     "display_name": "MultiMovies",
     "value": "multi",
-    "version": "1.7",
+    "version": "1.8",
     "icon": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
      "rating": "800",
-    "messages": "fix posts search feature now try multimovie"
+    "messages": "stream fix "
     
   },
   {
