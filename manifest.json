@@ -266,12 +266,12 @@
   {
     "display_name": "HiAnime",
     "value": "hiAnime",
-    "version": "1.4",
+    "version": "1.5",
     "icon": "https://hianimes.cz/assets/top-logo.png",
     "type": "india",
     "category": "anime",
     "disabled": false,
-    "messages": "fix episodes and stream (for anime)"
+    "messages": "fix episodes and stream (for anime) "
   },
   {
     "display_name": "Animetsu",
@@ -798,10 +798,11 @@
   {
     "display_name": "Toonhub",
     "value": "toonhub",
-    "version": "1.3",
+    "version": "1.4",
     "icon": "https://toonhub4u.co/wp-content/uploads/2024/02/cropped-cropped-TOONHUB4U-180x180.jpg",
     "type": "global",
     "category": "anime",
+    "messages": "fix stream for anime",
     "disabled": false
   },
   {
