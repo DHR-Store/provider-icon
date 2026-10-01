@@ -1187,13 +1187,13 @@
   {
     "display_name": "CastleTV",
     "value": "castleTV",
-    "version": "1.02",
+    "version": "1.03",
     "icon": "https://www.castletvapp.vip/logo-b@2x.png",
     "type": "global",
     "category": "movie",
     "disabled": false,
-    "rating": "1.2k",
-    "messages": "castleTv is here now watch you all anime , movie and tvshow"
+    "rating": "1.9k",
+    "messages": "castleTv is here now watch you all anime , movie and tvshow fix"
   },
   {
     "display_name": "India4Movies",
