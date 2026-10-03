@@ -1216,6 +1216,17 @@
     "disabled": false,
     "rating": "1.5k",
     "messages": "mkvbase return for indian and global now try it fix posts"
+  },
+  {
+    "display_name": "Movielinkdb",
+    "value": "movielinkdb",
+    "version": "1.00",
+    "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/movielink%20db.png?raw=true",
+    "type": "bangla",
+    "category": "movie",
+    "disabled": false,
+    "rating": "500",
+    "messages": "added movielinkdb for bangla"
   }
 
   
