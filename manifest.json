@@ -319,7 +319,9 @@
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/rogmovies.png?raw=true",
     "type": "india",
     "category": "movie/tvshow",
-    "disabled": false
+    "disabled": false,
+    "rating": "4.65k",
+    "messages": "fix stream and episodes"
   },
   {
     "display_name": "TopMovies",
@@ -1018,11 +1020,13 @@
   {
     "display_name": "AnimeHdub",
     "value": "animehdub",
-    "version": "0.1",
+    "version": "0.2",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/d83872eb-b462-4b50-b194-1418368d10d6.png?raw=true",
     "type": "india",
     "category": "anime",
-    "disabled": false
+    "disabled": false,
+    "rating": "1.43k",
+    "messages": "fix episodes"
   },
   {
     "display_name": "AniWave",
