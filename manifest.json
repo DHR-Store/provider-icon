@@ -1110,7 +1110,7 @@
   {
     "display_name": "Youtube",
     "value": "youtube",
-    "version": "1.02",
+    "version": "1.03",
     "icon": "https://www.youtube.com/s/desktop/ce6b1040/img/favicon_144x144.png",
     "type": "global",
     "category": "movie/tvshow",
