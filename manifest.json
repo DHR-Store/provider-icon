@@ -32,12 +32,12 @@
   {
     "display_name": "MultiMovies",
     "value": "multi",
-    "version": "1.8",
+    "version": "2.1",
     "icon": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "800",
+     "rating": "2.34k",
     "messages": "stream fix "
     
   },
