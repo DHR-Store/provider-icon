@@ -12,12 +12,13 @@
   {
     "display_name": "MultiStream",
     "value": "autoEmbed",
-    "version": "1.5",
+    "version": "1.6",
     "icon": "https://multistream.pt/en/wp-content/uploads/2021/12/wp_logo_mls_live_white_01-400.png",
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-     "rating": "2.1k"
+     "rating": "2.1k",
+    "messages": "fix stream"
   },
   {
     "display_name": "MoviesDrive",
@@ -174,12 +175,13 @@
   {
     "display_name": "HdHub4u",
     "value": "hdhub4u",
-    "version": "1.8",
+    "version": "1.9",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/hubhd4u.png?raw=true",
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
-    "rating": "6.65k"
+    "rating": "6.65k",
+    "messages": "fix meta data by posts rendering"
   },
   {
     "display_name": "maze",
