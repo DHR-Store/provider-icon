@@ -374,11 +374,12 @@
   {
     "display_name": "Rareanime",
     "value": "rareanimes",
-    "version": "1.0",
-    "icon": "",
+    "version": "1.01",
+    "icon": "https://www.rareanimes.mov/wp-content/uploads/2023/11/Rare-Animes-India.png",
     "type": "india",
-    "category": "movie/tvshow",
-    "disabled": true
+    "category": "anime",
+    "disabled": false,
+    "messages": "new anime provider"
   },
   {
     "display_name": "cinevood",
