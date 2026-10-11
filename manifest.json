@@ -157,11 +157,12 @@
   {
     "display_name": "NetflixMirror",
     "value": "netflixMirror",
-    "version": "1.1.03",
+    "version": "1.1.04",
     "icon": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2023.ico",
     "type": "global",
     "category": "movie/tvshow",
-    "disabled": false
+    "disabled": false,
+    "messages": "fix stream token"
   },
   {
     "display_name": "PrimeMirror",
@@ -296,7 +297,7 @@
   {
     "display_name": "KissKh",
     "value": "kissKh",
-    "version": "1.2",
+    "version": "1.3",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/kissh.png?raw=true",
     "type": "asian",
     "category": "kdrama",
