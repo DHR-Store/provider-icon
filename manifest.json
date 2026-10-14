@@ -87,13 +87,13 @@
   {
     "display_name": "UHDMovies",
     "value": "uhd",
-    "version": "1.4",
+    "version": "1.5",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/UHD.png?raw=true",
     "type": "india",
     "category": "movie/tvshow",
     "disabled": false,
      "rating": "901",
-    "messages": "now UDH working support stream for multiple url"
+    "messages": "UDH working support stream for multiple url"
   },
   {
     "display_name": "ProtonMovies",
