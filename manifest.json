@@ -521,11 +521,12 @@
   {
     "display_name": "DesireMovie",
     "value": "DesireMovie",
-    "version": "1.007",
+    "version": "1.008",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/desire.png?raw=true",
     "type": "global",
     "category": "movie/tvshow",
-    "disabled": false 
+    "disabled": false,
+    "messages": "fix meta collection"
   },
   {
     "display_name": "GokuHD",
@@ -1233,13 +1234,13 @@
   {
     "display_name": "Movielinkdb",
     "value": "movielinkdb",
-    "version": "1.00",
+    "version": "1.01",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/movielink%20db.png?raw=true",
     "type": "bangla",
     "category": "movie",
     "disabled": false,
     "rating": "500",
-    "messages": "added movielinkdb for bangla"
+    "messages": "added movielinkdb for bangla fix stream"
   }
 
   
