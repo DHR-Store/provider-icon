@@ -330,11 +330,12 @@
   {
     "display_name": "TopMovies",
     "value": "topmovies",
-    "version": "1.3",
+    "version": "1.4",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/topmovies.png?raw=true",
     "type": "india",
     "category": "movie/tvshow",
-    "disabled": false
+    "disabled": false,
+    "rating": "2.3k"
   },
   {
     "display_name": "GuardaHD",
