@@ -1237,11 +1237,12 @@
   {
     "display_name": "Movielinkdb",
     "value": "movielinkdb",
-    "version": "1.01",
+    "version": "1.02",
     "icon": "https://github.com/DHR-Store/provider-icon/blob/main/AppIcon/movielink%20db.png?raw=true",
     "type": "bangla",
     "category": "movie",
     "disabled": false,
+    "settings": "true",
     "rating": "500",
     "messages": "added movielinkdb for bangla fix stream"
   }
