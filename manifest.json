@@ -2,8 +2,8 @@
   {
     "display_name": "VegaMovies",
     "value": "vega",
-    "version": "2.2",
-    "icon": "https://vegamovies.mq/images/favicon-32x32.png",
+    "version": "2.6",
+    "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/vega.png",
     "type": "global",
     "category": "movie/tvshow",
     "disabled": false,
